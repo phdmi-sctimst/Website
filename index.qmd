@@ -1,7 +1,172 @@
 ---
-title: "website"
+title: "Public Health Data-Science Mentorship Initiative (PHDMI)"
 ---
 
-This is a Quarto website.
+Welcome to the Public Health Data-Science Mentorship Initiative (PHDMI) website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# About PHDMI
+
+The PHDMI program is designed to meet the growing demand for professionals with the skills and knowledge to manage the complex challenges of public health in the digital age. With the increasing use of technology and data in healthcare, there is a critical need for public health practitioners who can effectively collect, analyze, and interpret health data, as well as develop and implement data-driven interventions, policies and programs to address public health issues.
+
+The PHDMI program seeks to bridge the skills gap in public health data science and enhance the skills of mid-career public health professionals in data science applications. Our program is a collaboration between the [Indian Public Health Association (IPHA)](https://www.iphaonline.org/) and the [Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST), Trivandrum](https://sctimst.ac.in).
+
+The program aims of identify, train and provide learning opportunities to ten early and mid-career public health professionals to develop the necessary skills and practical expertise in the applications of data science in public health. The PHDMI program can be an essential pathway for those seeking to advance their careers in public health or pursue doctoral studies in the field.
+
+# Key Features
+
+::: {.callout collapse="false"}
+## Skills:
+
+::: columns
+::: {.column width="25%" align="center"}
+![](images/skills.jpg){width="120"}
+:::
+
+::: {.column width="75%"}
+-   One-on-one mentoring from experienced professionals and domain experts
+-   Opportunities to develop skills in data science, effective communication of research, advocacy in data science, leadership, and more
+-   Access to workshops and trainings on a variety of public health topics
+:::
+:::
+:::
+
+::: {.callout collapse="false"}
+## Networking:
+
+::: columns
+::: {.column width="25%" align="center"}
+![](images/networking.jpg){width="120"}
+:::
+
+::: {.column width="75%"}
+-   Opportunities to build relationships with mentors, peers, and other professionals in the field
+-   Access to a network of alumni and other public health professionals
+-   Opportunities to conduct capacity building activities and academic events
+:::
+:::
+:::
+
+::: {.callout collapse="false"}
+## Learning Opportunities:
+
+::: columns
+::: {.column width="25%" align="center"}
+![](images/opportunities.jpg){width="120"}
+:::
+
+::: {.column width="75%"}
+-   Exposure to cutting-edge research and best practices in public health and data science
+-   Access to a variety of resources and tools to enhance learning and development
+-   Opportunities to work on real-world public health projects and gain hands-on experience
+:::
+:::
+:::
+
+# Structure
+
+The PHDMI program is spread over a period of 6 months and comprises of an online phase, a face-to-face phase, and a mentorship phase. Through the program, mentees will learn to develop and implement data-driven public health interventions, collaborate with peers, and build a network of skilled public health professionals.
+
+::: {.callout-caution collapse="true"}
+## Online Phase (4 weeks)
+
+The online phase of PHDMI will consist of weekly meetings between mentors and mentees. During these meetings, mentees will receive training in data science applications in public health.
+
+| **Phase** | **Duration** | **Mode** | **Activities**               | **Description**                                                                                        | **Remarks**                                                    |
+|-----------|--------------|----------|------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Online    | 4 weeks      | Online   | Weekly meetings with mentors | Mentees will be introduced to the core concepts in data science and its applications in public health. | Expectations from the program and workplans will be discussed. |
+:::
+
+::: {.callout-note collapse="true"}
+## Face-to-face Phase (1 week)
+
+The face-to-face phase of PHDMI will bring together mentors and mentees for a week of in-person training and networking.
+
+| **Phase**    | **Duration** | **Mode**           | **Activities**                    | **Description**                                                                         | **Remarks**                                                                                                    |
+|--------------|--------------|--------------------|-----------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Face-to-Face | 1 week       | In-person Workshop | In-person training and networking | Mentees and mentors will come together for a week of in-person training and networking. | This is expected to be done through a workshop, the details (dates and venue) will be decided at a later date. |
+:::
+
+::: {.callout-tip collapse="true"}
+## Mentorship Phase (5 months)
+
+The mentorship phase of PHDMI will consist of ongoing mentorship and support for mentees as they work on public health data projects.
+
+|            |              |                       |                                |                                                                                                                            |                                                                                                          |
+|------------|--------------|-----------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Phase**  | **Duration** | **Mode**              | **Activities**                 | **Description**                                                                                                            | **Remarks**                                                                                              |
+| Mentorship | 5 months     | In-person  and Online | Ongoing mentorship and support | Mentees will work on real-world public health data projects and receive ongoing mentorship and support from their mentors. | This is expected to be done through One-Three month Project Internship positions at SCTIMST, Trivandrum. |
+:::
+
+# Faculty
+
+The mentors for PHDMI are experienced professionals with expertise in data science and public health. The mentors will be responsible for providing guidance and support to mentees, sharing resources and materials, and evaluating mentee progress.
+
+::: columns
+::: {.column width="25%" align="center"}
+![](images/biju.png){width="100"}
+
+Prof. Biju Soman
+:::
+
+::: {.column width="25%" align="center"}
+![](images/rakhal.png){width="100"}
+
+Prof. Rakhal Gaitonde
+:::
+
+::: {.column width="25%" align="center"}
+![](images/arun.png){width="100"}
+
+Dr. Arun Mitra Peddireddy
+:::
+
+::: {.column width="25%" align="center"}
+![](images/gurpreet.png){width="100"}
+
+Dr. Gurpreet Singh
+:::
+:::
+
+::: panel-tabset
+#### Prof. Biju Soman
+
+#### Prof. Rakhal Gaitonde
+
+#### Dr. Arun Mitra Peddireddy
+
+#### Dr. Gurpreet Singh
+:::
+
+The coordinators for the proposed PHDMI program are:
+
+![](images/adrija.png){width="100"} 1. Dr. Adrija Roy, Research Officer, SCTIMST ![](images/arun_jose.png){width="100"} 2. Mr. Arun Jose, PhD Scholar, SCTIMST
+
+Other domain experts in the field may be invited as guest faculty to address other topics of importance.
+
+# Eligibility
+
+To be eligible for PHDMI, early- and mid-career public health professionals in India must meet the following criteria:
+
+1.  Hold a relevant degree, such as an MBBS, MD, MPH, or others in Public Health.
+2.  Have some experience in research.
+3.  Possess basic knowledge of statistical software and data management tools.
+
+# Application
+
+Interested candidates are required to fill an application form. The application process requires you to upload the following documents:
+
+1.  Curriculum Vitae
+2.  A letter of motivation from the candidate
+3.  Letter of Recommendation/Permission from the department or institute head if applicable.
+
+It is available from the below link
+
+# Selection
+
+The selection process for PHDMI will consist of the following steps:
+
+1.  Application process: Interested candidates must submit an application, including a resume and a statement of purpose.
+2.  Review process: The review process will involve evaluating candidates based on their academic background, research experience, and interest in public health data science.
+3.  Notification: Selected candidates will be notified by email and will be provided with additional information about the program.
+
+# Contact
