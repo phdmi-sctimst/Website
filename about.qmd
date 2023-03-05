@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+About the PHDMI Team
 
-```{r}
-1 + 1
-```
+... coming soon
