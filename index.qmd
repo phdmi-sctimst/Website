@@ -104,7 +104,7 @@ The mentorship phase of PHDMI will consist of ongoing mentorship and support for
 # Faculty
 
 ::: justify
-The mentors for PHDMI are experienced professionals with expertise in data science and public health. The mentors will be responsible for providing guidance and support to mentees, sharing resources and materials, and evaluating mentee progress.
+The mentors for PHDMI are experienced professionals with expertise in data science and public health. The mentors and program coordinators will be responsible for providing guidance and support to mentees, sharing resources and materials, and evaluating mentee progress.
 :::
 
 ::: columns
@@ -186,7 +186,7 @@ Research Scholar (DST Fellow), <br> SCTIMST, Trivandrum
 ::: justify
 Dr. Arun Mitra is currently pursuing his PhD in Health Data Science from Achutha Menon Centre for Health Science Studies, SCTIMST, Trivandrum. He has an MD in Community Medicine from Maharashtra University of Health Sciences and has worked as a Senior Resident at All India Institute for Medical Science (AIIMS), Bhopal before joining his PhD.
 
-He received advanced training in Modern Modelling Techniques from London School of Hygiene and Tropical Medicine, UK. He is also certified in Digital Health and Imaging in Healthcare from the Indian Institute of Science (IISc), Bengaluru. He is a contributing member of the R Epidemics Consortium (https://www.repidemicsconsortium.org) based at Imperial College, London, UK. He is also a member of Society for Data Science (https://s4ds.org/) which is an international non-governmental organization working towards empowering people on data science. He is also a member of many professional bodies in India including the Indian Public Health Association (IPHA), Indian Association of Preventive and Social Medicine (IAPSM), and Epidemiological Foundation of India (EFI).
+He received advanced training in Modern Modelling Techniques from London School of Hygiene and Tropical Medicine, UK. He is also certified in Digital Health and Imaging in Healthcare from the Indian Institute of Science (IISc), Bengaluru. He is a contributing member of the R Epidemics Consortium (https://www.repidemicsconsortium.org) based at Imperial College, London, UK. He is also a member of Society for Data Science (https://s4ds.org/) which is an international non-governmental organization working towards empowering people on data science. 
 
 His current work is focussed on transforming health data into evidence for public health decision making. He won many accolades at various national and international venues on his work relating to health data science. He is also recipient of the few fellowships including the prestigious DST Fellowship from the Science for Equity, Empowerment and Development (SEED) Division, Department of Science and Technology, Govt. of India.
 :::
