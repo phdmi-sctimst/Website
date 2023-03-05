@@ -9,7 +9,7 @@ Welcome to the Public Health Data-Science Mentorship Initiative (PHDMI) website!
 ::: justify
 The PHDMI program is designed to meet the growing demand for professionals with the skills and knowledge to manage the complex challenges of public health in the digital age. With the increasing use of technology and data in healthcare, there is a critical need for public health practitioners who can effectively collect, analyze, and interpret health data, as well as develop and implement data-driven interventions, policies and programs to address public health issues.
 
-The PHDMI program seeks to bridge the skills gap in public health data science and enhance the skills of mid-career public health professionals in data science applications. Our program is a collaboration between the [Indian Public Health Association (IPHA)](https://www.iphaonline.org/) and the [Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST), Trivandrum](https://sctimst.ac.in).
+The PHDMI program seeks to bridge the skills gap in public health data science and enhance the skills of public health professionals. Our program is a collaboration between the [Indian Public Health Association (IPHA)](https://www.iphaonline.org/) and the [Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST), Trivandrum](https://sctimst.ac.in).
 
 The program aims of identify, train and provide learning opportunities to ten early and mid-career public health professionals to develop the necessary skills and practical expertise in the applications of data science in public health. The PHDMI program can be an essential pathway for those seeking to advance their careers in public health or pursue doctoral studies in the field.
 :::
@@ -155,7 +155,7 @@ Senior Professor, <br> Achutha Menon Centre for Health Science Studies, <br> SCT
 ## Brief Bio
 
 ::: justify
-Dr. Rakhal Gaitonde is trained in community medicine at the Christian Medical College, Vellore, India, and completed his PhD in Health Policy from Umea University, Sweden. He is currently a Senior Professor at SCTIMST, Trivandrum and teaches Social Determinants of Health, Health Policy and Health Economics.
+Dr. Rakhal Gaitonde is trained in Community Medicine at the Christian Medical College, Vellore, India, and completed his PhD in Health Policy from Umea University, Sweden. He is currently a Senior Professor at SCTIMST, Trivandrum and teaches Social Determinants of Health, Health Policy and Health Economics.
 
 He has more than a decade's involvement in Environment and Occupational Health, supporting a number of pollution-impacted communities through research and advocacy. He is a member of the Patient Advisory Board and International Editorial Advisory Board of The BMJ. He has recently been involved in formulating health policy documents for both the Kerala and Tamil Nadu State Planning Bodies. He is also the Commissioner in the Lancet Commission on 'Reimagining India's Health-care System', an ambitious, cross-sectoral endeavour to lay out the roadmap for achieving universal health coverage for the people of India.
 
@@ -232,7 +232,7 @@ Presently, he is working on PhD program titled "Data Science approach to Spatio-
 ::: {.callout collapse="true"}
 ## Dr. Adrija Roy
 
-Research Officer, <br> SCTIMST, Trivandrum
+Research Officer & PhD Scholar, <br> SCTIMST, Trivandrum
 :::
 :::
 
@@ -281,7 +281,7 @@ To be eligible for PHDMI, early- and mid-career public health professionals in I
 
         -   `dr.arunmitra@gmail.com`
 
-    -   Last date for Application: 25th March 2023
+    -   Last date for Submission of Documents: 25th March 2023
 
 Candidates are required to the following documents:
 
