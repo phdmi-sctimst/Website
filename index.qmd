@@ -6,11 +6,13 @@ Welcome to the Public Health Data-Science Mentorship Initiative (PHDMI) website!
 
 # About PHDMI
 
+::: justify
 The PHDMI program is designed to meet the growing demand for professionals with the skills and knowledge to manage the complex challenges of public health in the digital age. With the increasing use of technology and data in healthcare, there is a critical need for public health practitioners who can effectively collect, analyze, and interpret health data, as well as develop and implement data-driven interventions, policies and programs to address public health issues.
 
 The PHDMI program seeks to bridge the skills gap in public health data science and enhance the skills of mid-career public health professionals in data science applications. Our program is a collaboration between the [Indian Public Health Association (IPHA)](https://www.iphaonline.org/) and the [Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST), Trivandrum](https://sctimst.ac.in).
 
 The program aims of identify, train and provide learning opportunities to ten early and mid-career public health professionals to develop the necessary skills and practical expertise in the applications of data science in public health. The PHDMI program can be an essential pathway for those seeking to advance their careers in public health or pursue doctoral studies in the field.
+:::
 
 # Key Features
 
@@ -64,7 +66,9 @@ The program aims of identify, train and provide learning opportunities to ten ea
 
 # Structure
 
+::: justify
 The PHDMI program is spread over a period of 6 months and comprises of an online phase, a face-to-face phase, and a mentorship phase. Through the program, mentees will learn to develop and implement data-driven public health interventions, collaborate with peers, and build a network of skilled public health professionals.
+:::
 
 ::: {.callout-caution collapse="true"}
 ## Online Phase (4 weeks)
@@ -72,7 +76,7 @@ The PHDMI program is spread over a period of 6 months and comprises of an online
 The online phase of PHDMI will consist of weekly meetings between mentors and mentees. During these meetings, mentees will receive training in data science applications in public health.
 
 | **Phase** | **Duration** | **Mode** | **Activities**               | **Description**                                                                                        | **Remarks**                                                    |
-|----------|----------|----------|----------|-----------------------|------------|
+|------------|------------|------------|------------|------------|------------|
 | Online    | 4 weeks      | Online   | Weekly meetings with mentors | Mentees will be introduced to the core concepts in data science and its applications in public health. | Expectations from the program and workplans will be discussed. |
 :::
 
@@ -82,7 +86,7 @@ The online phase of PHDMI will consist of weekly meetings between mentors and me
 The face-to-face phase of PHDMI will bring together mentors and mentees for a week of in-person training and networking.
 
 | **Phase**    | **Duration** | **Mode**           | **Activities**                    | **Description**                                                                         | **Remarks**                                                                                                    |
-|----------|----------|----------|----------|--------------|-------------------|
+|------------|------------|------------|------------|------------|------------|
 | Face-to-Face | 1 week       | In-person Workshop | In-person training and networking | Mentees and mentors will come together for a week of in-person training and networking. | This is expected to be done through a workshop, the details (dates and venue) will be decided at a later date. |
 :::
 
@@ -92,170 +96,156 @@ The face-to-face phase of PHDMI will bring together mentors and mentees for a we
 The mentorship phase of PHDMI will consist of ongoing mentorship and support for mentees as they work on public health data projects.
 
 |            |              |                       |                                |                                                                                                                            |                                                                                                          |
-|----------|----------|----------|----------|-------------------|----------------|
+|------------|------------|------------|------------|------------|------------|
 | **Phase**  | **Duration** | **Mode**              | **Activities**                 | **Description**                                                                                                            | **Remarks**                                                                                              |
 | Mentorship | 5 months     | In-person  and Online | Ongoing mentorship and support | Mentees will work on real-world public health data projects and receive ongoing mentorship and support from their mentors. | This is expected to be done through One-Three month Project Internship positions at SCTIMST, Trivandrum. |
 :::
 
 # Faculty
 
+::: justify
 The mentors for PHDMI are experienced professionals with expertise in data science and public health. The mentors will be responsible for providing guidance and support to mentees, sharing resources and materials, and evaluating mentee progress.
-
-::: columns
-:::: {.column width="25%" align="center"}
-::: {layout="[[-1], [1], [-1]]"}
-
-![](images/biju.png){width="180"}
-
 :::
 
-::::
-:::: {.column width="10%" align="left"}
-::::
-:::: {.column width="65%" align="left"}
+::: columns
+::: {.column width="25%" align="center"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/biju.png){width="180"}
+:::
+:::
 
-<br>
+::: {.column width="10%" align="left"}
+:::
 
+::: {.column width="65%" align="left"}
 #### Prof. Biju Soman
 
-Professor and Head, <br>
-Achutha Menon Centre for Health Science Studies,  <br>
-SCTIMST, Trivandrum
-
-::: {.callout-tip collapse="true"}
-## Brief Bio
-:::
-
-::::
-:::
-
-
-::: columns
-:::: {.column width="25%" align="center"}
-::: {layout="[[-1], [1], [-1]]"}
-
-![](images/rakhal.png){width="180"}
-
-:::
-
-::::
-:::: {.column width="10%" align="left"}
-::::
-:::: {.column width="65%" align="left"}
-
-
-<br>
-
-#### Prof. Rakhal Gaitonde
-
-Senior Professor, <br>
-Achutha Menon Centre for Health Science Studies,  <br>
-SCTIMST, Trivandrum
-
-::: {.callout-tip collapse="true"}
-## Brief Bio
-:::
-
-::::
-:::
-
-
-::: columns
-:::: {.column width="25%" align="center"}
-::: {layout="[[-1], [1], [-1]]"}
-
-![](images/arun.png){width="180"}
-
-:::
-
-::::
-:::: {.column width="10%" align="left"}
-::::
-:::: {.column width="65%" align="left"}
-
-
-<br>
-
-#### Dr. Arun Mitra Peddireddy
-
-Research Scholar (DST Fellow), <br>
-SCTIMST, Trivandrum
+Professor and Head, <br> Achutha Menon Centre for Health Science Studies, <br> SCTIMST, Trivandrum
 
 ::: {.callout collapse="true"}
 ## Brief Bio
-:::
 
-::::
-:::
+::: justify
+Dr. Biju Soman is the Professor and Head of Achutha Menon Centre for Health Science Studies, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Trivandrum, Kerala. Dr. Soman had completed his MBBS in 1992, DPH in 1996 and M.D. (Community Medicine) in 1999 from University of Kerala and his MSc (Control of Infectious Diseases) in 2011 from University of London and DLSHTM in 2012 from the London School of Hygiene and Tropical Medicine (U.K.).
 
+He has undergone advanced training in health informatics from Oslo University (Norway), Teaching Methodology from Boston School of Public Health (USA), Multilevel Modelling from Bielefeld University (Germany), and Advances in Geographic Information Systems (GIS) from National Remote Sensing Centre (Hyderabad). Dr. Soman teaches Public Health Technologies, Infectious Disease Epidemiology, and Database Management in Epidemiology modules at AMCHSS as part of the PhD and MPH curriculum. Some of his professional involvements at SCTIMST include Board of Studies (Health Sciences); Standing Academic Committee; and Research Advisory Committee. He also heads the Regional Technical Resource Centre (RTRC) of the Health Technology Assessment India (HTAIn) at SCTIMST, Trivandrum.
+
+His current research and teaching are around health data science, including public health informatics, geospatial analysis, telemedicine, health technology assessment, and infectious disease epidemiology. He endorses open data initiative, FOSS resources, and reproducible research initiatives.
+:::
+:::
+:::
+:::
 
 ::: columns
-:::: {.column width="25%" align="center"}
+::: {.column width="25%" align="center"}
 ::: {layout="[[-1], [1], [-1]]"}
-
-![](images/gurpreet.png){width="180"}
-
+![](images/rakhal.png){width="180"}
+:::
 :::
 
-::::
-:::: {.column width="10%" align="left"}
-::::
-:::: {.column width="65%" align="left"}
+::: {.column width="10%" align="left"}
+:::
 
+::: {.column width="65%" align="left"}
+#### Prof. Rakhal Gaitonde
 
-<br>
+Senior Professor, <br> Achutha Menon Centre for Health Science Studies, <br> SCTIMST, Trivandrum
 
+::: {.callout collapse="true"}
+## Brief Bio
+
+::: justify
+Dr. Rakhal Gaitonde is trained in community medicine at the Christian Medical College, Vellore, India, and completed his PhD in Health Policy from Umea University, Sweden. He is currently a Senior Professor at SCTIMST, Trivandrum and teaches Social Determinants of Health, Health Policy and Health Economics.
+
+He has more than a decade's involvement in Environment and Occupational Health, supporting a number of pollution-impacted communities through research and advocacy. He is a member of the Patient Advisory Board and International Editorial Advisory Board of The BMJ. He has recently been involved in formulating health policy documents for both the Kerala and Tamil Nadu State Planning Bodies. He is also the Commissioner in the Lancet Commission on 'Reimagining India's Health-care System', an ambitious, cross-sectoral endeavour to lay out the roadmap for achieving universal health coverage for the people of India.
+
+He is part of the core Data Science Team at AMCHSS where he is part of numerous funded data science initiatives and projects. His other areas of interest are health policy, implementation studies, health systems research and health inequity.
+:::
+:::
+:::
+:::
+
+::: columns
+::: {.column width="25%" align="center"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/arun.png){width="180"}
+:::
+:::
+
+::: {.column width="10%" align="left"}
+:::
+
+::: {.column width="65%" align="left"}
+#### Dr. Arun Mitra Peddireddy
+
+Research Scholar (DST Fellow), <br> SCTIMST, Trivandrum
+
+::: {.callout collapse="true"}
+## Brief Bio
+
+::: justify
+Dr. Arun Mitra is currently pursuing his PhD in Health Data Science from Achutha Menon Centre for Health Science Studies, SCTIMST, Trivandrum. He has an MD in Community Medicine from Maharashtra University of Health Sciences and has worked as a Senior Resident at All India Institute for Medical Science (AIIMS), Bhopal before joining his PhD.
+
+He received advanced training in Modern Modelling Techniques from London School of Hygiene and Tropical Medicine, UK. He is also certified in Digital Health and Imaging in Healthcare from the Indian Institute of Science (IISc), Bengaluru. He is a contributing member of the R Epidemics Consortium (https://www.repidemicsconsortium.org) based at Imperial College, London, UK. He is also a member of Society for Data Science (https://s4ds.org/) which is an international non-governmental organization working towards empowering people on data science. He is also a member of many professional bodies in India including the Indian Public Health Association (IPHA), Indian Association of Preventive and Social Medicine (IAPSM), and Epidemiological Foundation of India (EFI).
+
+His current work is focussed on transforming health data into evidence for public health decision making. He won many accolades at various national and international venues on his work relating to health data science. He is also recipient of the few fellowships including the prestigious DST Fellowship from the Science for Equity, Empowerment and Development (SEED) Division, Department of Science and Technology, Govt. of India.
+:::
+:::
+:::
+:::
+
+::: columns
+::: {.column width="25%" align="center"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/gurpreet.png){width="180"}
+:::
+:::
+
+::: {.column width="10%" align="left"}
+:::
+
+::: {.column width="65%" align="left"}
 #### Wg Cdr (Dr.) Gurpreet Singh
 
-Assistant Professor & Senior Medical Officer (SMO), <br>
-Armed Forces Medical Services
+Assistant Professor & Senior Medical Officer (SMO), <br> Armed Forces Medical Services
 
 ::: {.callout collapse="true"}
 ## Brief Bio
+
+::: justify
+Dr Gurpreet Singh is a PhD Scholar at Achutha Menon Centre for Health Science Studies, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum. Dr Gurpreet is also a serving officer in Indian Armed Forces and is serving as Public Health Specialist and Epidemiologist in the parent organization. He completed his MBBS and MD (Community Medicine) from Armed Forces Medical College, Pune in 2007 and 2015 respectively, DNB (Preventive and Social Medicine) from National Board of Examinations, India in 2016.
+
+He is recipient of Director General Armed Forces Medical Services Gold Medal, President National Board of Examinations Gold Medal, Certificate of Merit from Maharashtra University of Health Sciences, and General Officer Commanding Medallion (15 Aug 2017). He has contributed chapters to a few books and has many peer-reviewed publications.
+
+Presently, he is working on PhD program titled "Data Science approach to Spatio-temporal modelling of Dengue in Punjab, India".
+:::
+:::
+:::
 :::
 
-::::
-:::
+### Program Coordinators
 
 ::: columns
-:::: {.column width="25%" align="center"}
-![](images/biju.png){width="100"}
+::: {.column width="50%" align="center"}
+![](images/adrija.png){width="100"}
 
+::: {.callout collapse="true"}
+## Dr. Adrija Roy
 
-::::
-
-:::: {.column width="25%" align="center"}
-![](images/rakhal.png){width="100"}
-
-Prof. Rakhal Gaitonde
-::::
-
-:::: {.column width="25%" align="center"}
-![](images/arun.png){width="100"}
-
-Dr. Arun Mitra Peddireddy
-::::
-
-:::: {.column width="25%" align="center"}
-![](images/gurpreet.png){width="100"}
-
-Dr. Gurpreet Singh
-::::
+Research Officer, <br> SCTIMST, Trivandrum
+:::
 :::
 
-::: panel-tabset
-#### Prof. Biju Soman
+::: {.column width="50%" align="center"}
+![](images/arun_jose.png){width="100" align="center"}
 
-#### Prof. Rakhal Gaitonde
+::: {.callout collapse="true"}
+## Mr. Arun Jose
 
-#### Dr. Arun Mitra Peddireddy
-
-#### Dr. Gurpreet Singh
+PhD Scholar, <br> SCTIMST, Trivandrum
 :::
-
-The coordinators for the proposed PHDMI program are:
-
-![](images/adrija.png){width="100"} 1. Dr. Adrija Roy, Research Officer, SCTIMST ![](images/arun_jose.png){width="100"} 2. Mr. Arun Jose, PhD Scholar, SCTIMST
+:::
+:::
 
 Other domain experts in the field may be invited as guest faculty to address other topics of importance.
 
@@ -267,15 +257,37 @@ To be eligible for PHDMI, early- and mid-career public health professionals in I
 2.  Have some experience in research.
 3.  Possess basic knowledge of statistical software and data management tools.
 
-# Application
+# Application Process
 
-Interested candidates are required to fill an application form. The application process requires you to upload the following documents:
+![](images/apply_process-01.png)
+
+1.  Register for IPHACON 2023
+
+    -   <http://iphacon23kolkata.com/registration.php>
+
+2.  Register for Holding the Hands
+
+    -   <https://forms.gle/tt8fEuRo35yTc7qm8>
+
+    -   Select **Public Health Data Science**
+
+3.  Apply for PHDMI Program
+
+    -   Check Eligibility Criteria and Application process.
+
+    -   Send required documents to:
+
+        -   `phdmi.sctimst@gmail.com`
+
+        -   `dr.arunmitra@gmail.com`
+
+    -   Last date for Application: 25th March 2023
+
+Candidates are required to the following documents:
 
 1.  Curriculum Vitae
 2.  A letter of motivation from the candidate
 3.  Letter of Recommendation/Permission from the department or institute head if applicable.
-
-It is available from the below link
 
 # Selection
 
@@ -286,3 +298,16 @@ The selection process for PHDMI will consist of the following steps:
 3.  Notification: Selected candidates will be notified by email and will be provided with additional information about the program.
 
 # Contact
+
+In case of queries please contact:<br>
+
+|     |
+|-----|
+|{{< fa envelope >}} phdmi.sctimst@gmail.com      |
+|{{< fa envelope >}} dr.arunmitra@gmail.com      |
+|{{< fa phone >}} +91 950 356 3356 (Dr. Arun Mitra)     |
+| {{< fa phone >}} +91 907 816 2274 (Dr. Adrija Roy)     |
+
+
+
+#### Achutha Menon Centre for Health Science Studies, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum
