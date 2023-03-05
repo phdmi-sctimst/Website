@@ -1,6 +1,7 @@
 ---
 title: "About"
 ---
+::: justify
 
 # About the PHDMI Team
 
@@ -27,6 +28,8 @@ AMCHSS has been working with the following objectives:
 (iii) To undertake quality research on priority health issues of the country.
 (iv) To offer consultancy services to national and international agencies.
 
+
+:::
 ### Ongoing Data Science Research at AMCHSS
 
 +-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -44,9 +47,10 @@ AMCHSS has been working with the following objectives:
 
 ### Some Data Science related publications by the team:
 
+::: justify
 1.  Mitra A, Soman B, Gaitonde R, Bhatnagar T, Nieuhas E, Kumar S. Data Science Approaches to Public Health: Case Studies Using Routine Health Data from India. 2023 Jan 20 \[cited 2023 Mar 5\]; Available from: [https://easychair.org/publications/preprint/DRZB](https://easychair.org/publications/preprint/DRZB){style="font-size: 15pt;"}
 
-2.  Mitra A, Soman B, Gaitonde R, Singh G, Roy A. Data Science Methods to Develop Decision Support Systems for Real-time Monitoring of COVID-19 Outbreak. Journal of Human, Earth, and Future. 2022 Jun 1;3:223--36. <https://hefjournal.org/index.php/HEF/article/view/164>
+2.  Mitra A, Soman B, Gaitonde R, Singh G, Roy A. Data Science Methods to Develop Decision Support Systems for Real-time Monitoring of COVID-19 Outbreak. Journal of Human, Earth, and Future. 2022 Jun 1;3:223--36. <https://doi.org/10.28991/HEF-2022-03-02-08>
 
 3.  Mitra A, Soman B, Singh G. An Interactive Dashboard for Real-Time Analytics and Monitoring of COVID-19 Outbreak in India: A proof of Concept. 2021. Available from: <https://arxiv.org/abs/2108.09937>
 
@@ -95,3 +99,5 @@ AMCHSS has been working with the following objectives:
 24. Krishnamoorthy S, Singh G, Sreedharan S, Damayanthi D, Gopala S, Urulangodi M, et al. Soluble ST2 Predicts Poor Functional Outcome in Acute Ischemic Stroke Patients. Cerebrovascular Diseases Extra. 2023 Feb 8; <https://doi.org/10.1159/000529512>
 
 25. Krishnamoorthy S, Sylaja P, Sreedharan S, Singh G, Damayanthi D, Gopala S, et al. Biomarkers predict hemorrhagic transformation and stroke severity after acute ischemic stroke. Journal of Stroke and Cerebrovascular Diseases. 2023 Jan 1;32:106875. <https://doi.org/10.1159/000518570>
+
+:::
